@@ -196,27 +196,10 @@ STM32F407_ADC_DMA_TIM2/
 ├── main.c
 └── README.md
 ```
-
 ---
+##Debug output
 
-## 🧩 Why This Is a Strong Portfolio Project
-
-✔ Uses hardware triggers
-✔ Demonstrates DMA mastery
-✔ No polling / no busy-wait ADC
-✔ Real-time embedded design
-✔ Interview-relevant STM32 knowledge
-
----
-
-## 🚀 Possible Extensions
-
-* Multiple ADC channels (scan mode)
-* Interrupt-driven UART
-* PLL @ 84 MHz
-* FreeRTOS task-based version
-* Low-power ADC sampling
-
+https://drive.google.com/drive/folders/1fstU0tgN4eh4Qns68S9pWkCqkI2jdlaA
 ---
 
 ## 📚 References
